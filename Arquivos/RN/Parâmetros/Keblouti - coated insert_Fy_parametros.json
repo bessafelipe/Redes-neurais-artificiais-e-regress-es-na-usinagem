@@ -1,0 +1,7 @@
+{
+    "epochs": 38,
+    "fun": "relu",
+    "layer2": false,
+    "ln": 0.1,
+    "n": 10
+}

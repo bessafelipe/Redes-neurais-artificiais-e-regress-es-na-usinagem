@@ -1,0 +1,12 @@
+{
+    "errorel_test": 12.23,
+    "errorel_train": 1.51,
+    "cor_test": 0.98,
+    "cor_train": 1.0,
+    "det_test": 0.96,
+    "det_train": 1.0,
+    "mse_test": 229.04,
+    "mse_train": 17.32,
+    "rmse_test": 15.13,
+    "rmse_train": 4.16
+}

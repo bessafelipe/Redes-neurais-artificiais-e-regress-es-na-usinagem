@@ -1,0 +1,4 @@
+Melhores parâmetros: -1.520807 com {'epochs': 38, 'fun': 'relu', 'layer2': False, 'ln': 0.1, 'n': 10}
+
+    Média  Desvio   n   ln  2° camada Função  Épocas
+0 -1.5208  0.7187  10  0.1      False   relu      38

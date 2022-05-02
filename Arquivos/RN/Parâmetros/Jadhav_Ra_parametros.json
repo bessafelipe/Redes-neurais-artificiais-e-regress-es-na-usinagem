@@ -1,0 +1,7 @@
+{
+    "epochs": 130,
+    "fun": "tanh",
+    "layer2": true,
+    "ln": 0.01,
+    "n": 7
+}
